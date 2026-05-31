@@ -1,7 +1,7 @@
 # Operative Ecosystem (ESO)
 ### Il modello operativo dell'impresa individuale nell'era degli agenti
 
-**Whitepaper visionario · v0.3 (bozza)**
+**Whitepaper visionario · v0.4 (bozza)**
 Autore: Armando Battaglino
 Data: 2026-05-31
 
@@ -237,6 +237,8 @@ Oggi la discoverability è **broadcast**: un sito si ottimizza con parole chiave
 
 La SEO come la conosciamo svanisce. Al suo posto nasce la **Agentic Match Economy**: il discovery non è più una gara di visibilità di massa, ma una gara di **corrispondenza semantica individuale**. Chi possiede i nodi che matchano meglio i bisogni degli agenti — nell'ecosistema giusto — viene interrogato di più, usato di più, monetizzato di più.
 
+E quando i nodi su una stessa nicchia sono molti e trasparenti, l'agente non si limita a scegliere *il* match migliore: **compone funzioni da più nodi concorrenti** in un'unica risposta su misura. È la forma matura della Match Economy — gli *stack paralleli* e la *composizione agentica* (§13.5) — dove il merito si misura a livello di singola funzione, non di intero prodotto.
+
 ### 6.3 Dove si concentra il valore (trilionario)
 
 Si chiude il cerchio con l'ESO:
@@ -383,6 +385,8 @@ Il movimento è sempre lo stesso — **parametrizza → connetti → ricomponi**
 
 La parametrizzazione dei *processi cognitivi* (scala 2) è esattamente ciò che ha **generato l'intelligenza artificiale** che conosciamo. Ma — come vedremo — *emulare la conoscenza è solo il primo tassello.*
 
+> **Un corollario della scala-invarianza: si pensa per *branch*.** Se la legge è la stessa a ogni scala, lo è anche la sua dinamica esplorativa — la **diramazione parallela**. Branch nel codice (versioni di un sistema), branch nelle nicchie (gli *stack paralleli* che competono, §13.5), branch nella realtà stessa (scenari potenziali esplorati in parallelo). Esplorare diramazioni concorrenti e poi *ricomporre* la migliore combinazione è il modo in cui il sistema avanza a ogni livello.
+
 ---
 
 ## 11. Lo Strato Cognitivo: dall'emulazione della conoscenza al gemello cognitivo
@@ -454,15 +458,73 @@ L'unico punto che potrebbe non reggere è l'equilibrio domanda/offerta. Ma qui s
 
 La **baseline** del sistema — il tasso di dividendo che tiene in equilibrio domanda e offerta — è calcolabile come un sistema matematico. *Le tecnologie per realizzarlo esistono già; il limite è la conoscenza necessaria a estenderne il disegno.*
 
+### 13.3 Non è comunismo: il capitalismo a esito orientato
+
+Il sistema si presta a un fraintendimento: *"redistribuzione, commons, reddito universale — è comunismo."* **Non lo è.** Resta **capitalistico nel meccanismo** — anzi, adotta deliberatamente *il sistema più efficiente mai esistito* — e ne conserva i pilastri: la **meritocrazia** e la **libertà di costruire**. Chi vuole creare, crea; chi costruisce di più e meglio, vince di più.
+
+E soprattutto **non tocca il movente individuale**: il *perché* una persona opera resta libero — e per il sistema è irrilevante. Non si chiede a nessuno di lavorare "per il progresso della società". L'unico vincolo è strutturale: **se vuoi competere, costruisci sull'infrastruttura comune.**
+
+Ciò che è "riorientato" non è dunque il fine soggettivo delle persone, ma la **condizione di vittoria del campo**: le regole del gioco sono disegnate perché *qualunque* cosa tu costruisca — mossa da *qualunque* movente — abbia come **esito aggregato** il progresso. Il progresso non è un dovere imposto: è l'**esito emergente** garantito dal design.
+
+> **Capitalista nel motore, sociale nell'esito.** Non si cambia *perché* le persone agiscono — si cambia *dove convergono gli effetti* delle loro azioni. Il gioco resta competitivo, libero e meritocratico; solo, il campo è inclinato verso il progresso.
+
+### 13.4 I due motori di selezione: agentico e democratico
+
+Chi vince — chi ottiene le retribuzioni più alte — non è deciso dalla speculazione di mercato regolata dagli umani, ma da due motori, entrambi più sani:
+
+- **Selezione agentica (il merito d'uso).** Un servizio viene cercato e usato *in automatico* dal meta-layer degli agenti personali (§6.2). Vince ciò che risolve davvero un bisogno reale, non ciò che ha il marketing migliore: meritocrazia misurata sull'uso.
+- **Selezione democratica (le priorità).** *Quali* bisogni il sistema premia di più è gestito da **decisioni democratiche del sistema-mondo — i cittadini**. Come un mercato, ma esplicitamente orientato a un obiettivo invece che alla pura speculazione.
+
+Insieme producono una **redistribuzione del valore meritocratica e distribuita**, fondata sui ragionamenti delle singole persone: *non* su un piano centrale (per questo non è comunismo) e *non* sulla rendita speculativa (per questo è più sano del capitalismo attuale).
+
+### 13.5 Stack paralleli e composizione agentica
+
+È il meccanismo che fa funzionare tutto il resto — e il concetto più nuovo del sistema. Poiché l'infrastruttura è **pubblica e trasparente**, su ogni nicchia non cresce un monopolio: crescono **stack paralleli**.
+
+> **Stack paralleli.** Su una stessa nicchia, più persone costruiscono *versioni concorrenti* di sistemi — *branch* che competono, a qualsiasi livello del substrato. La trasparenza dell'infra rende sempre possibile forkare, migliorare, rilanciare.
+
+E qui entra l'agente. L'utente esprime un bisogno al proprio agente personale → **l'agente esplora i branch paralleli della nicchia e compone la combinazione ottimale di funzioni *tra* i diversi stack** per quella specifica richiesta. Non sceglie un'azienda intera: pesca le singole funzioni migliori da stack diversi e le orchestra.
+
+Tre conseguenze:
+
+1. **Il merito diventa granulare.** Il valore va a chi ha costruito la *funzione effettivamente usata*, non all'intero pacchetto. La redistribuzione (§13.4) si fa fine, distribuita sui ragionamenti dei singoli.
+2. **Niente lock-in, niente monopolio.** Infra pubblica + stack paralleli + composizione agentica rendono il monopolio impossibile: la competizione è permanente, per funzione.
+3. **Completezza per l'utente.** L'utente finale ottiene sempre la *migliore composizione possibile del momento*, non il miglior prodotto di un singolo fornitore.
+
+> **Lo stesso pattern, a ogni scala.** I *branch paralleli* non sono un'idea isolata: sono la legge scala-invariante (§10.3) che ritorna. Branch nel codice (versioni), branch nella realtà (scenari potenziali), branch nelle nicchie (stack concorrenti). Il sistema *pensa per branch* a ogni livello.
+
+### 13.6 Il reddito di cittadinanza mondiale come motore della domanda
+
+Qui si chiude l'anello economico (e si scioglie il dubbio più attuale del mondo: *"se l'AI prende il lavoro, come provvedo alla mia famiglia?"*).
+
+Le persone che non lavorano ricevono un **reddito di cittadinanza mondiale**. Ma questo **non è assistenzialismo: è economia.** Quella fetta — enorme — di popolazione diventa il bacino che **consuma** servizi e prodotti, e *quel consumo è ciò che alimenta la società stessa*. I non-lavoratori non sono un costo del sistema: **sono il suo motore di domanda.**
+
+Si rovescia così la paura del nostro tempo. La perdita del lavoro smette di essere una minaccia esistenziale e diventa la **funzione economica** che fa girare il sistema. L'esito è quello che la tecnologia dovrebbe sempre aver promesso:
+
+> **La libertà degli umani di essere umani — abitanti del mondo, non schiavi di esso.**
+
+### 13.7 La sequenza: prima prodotto, poi espansione
+
+La transizione dal mondo di oggi a questo sistema ha un ordine obbligato:
+
+1. **Fase prodotto.** La meta-struttura va *costruita* — e costruire richiede capitale, risorse e persone. In questa fase il valore è **concentrato**: è ciò che finanzia la costruzione. (È la Parte I: l'architetto e il suo ESO.)
+2. **Fase espansione.** Una volta che la struttura esiste ed è vincente, si attiva l'espansione: le **strutture/infrastrutture diventano commons open-source**, la governance dell'uso si distribuisce, il valore catturato finanzia il reddito di cittadinanza mondiale.
+
+> **La concentrazione iniziale *è* ciò che paga la redistribuzione successiva.** Nodo ① e nodo ② non sono due problemi diversi: sono **lo stesso meccanismo visto in due tempi**.
+
+E il sistema si diffonde non per conquista ma per **selezione naturale del Web 4**: ogni azienda esistente è spinta a entrare perché chi non diventa nodo interrogabile dagli agenti (§6.2, *Agentic Match Economy*) **diventa invisibile**. Non si piega il mercato con la forza — lo si piega rendendolo l'unico modo per restare visibili.
+
 ---
 
-## 14. Le tensioni aperte (stato del pensiero al 2026-05-31)
+## 14. Le tensioni: risolte e residue (stato del pensiero al 2026-05-31)
 
-Questo documento è un substrato vivo. Tre nodi restano **deliberatamente irrisolti** — registrarli fa parte del versionare l'evoluzione del pensiero.
+Questo documento è un substrato vivo. Aggiornamento di stato: due dei tre nodi precedentemente aperti sono ora **sciolti**; restano due punti da affilare.
 
-- **① Concentrazione ↔ Democrazia.** La Parte I concentra il valore sull'architetto (potenzialmente trilionario); la Parte II immagina una governance democratica e redistributiva. Le due vie di riconciliazione candidate: *temporale* (prima concentrazione durante la transizione, poi democratizzazione quando i nodi diventano commons) oppure *strutturale* (proprietà concentrata della meta-infrastruttura, governance distribuita dell'uso). **Non ancora deciso.**
-- **② Tempo libero ≠ potere d'acquisto.** Il tempo libero genera domanda solo se accoppiato a un canale di reddito: il **dividendo** è l'anello che chiude il loop. Da formalizzare nel modello di baseline.
-- **③ Infinito epistemico ↔ limite fisico.** La realtà è scomponibile "all'infinito" *epistemicamente* (dipende dalla conoscenza), ma con un *limite ontologico* dato dai parametri fisici. La conoscenza si avvicina asintoticamente al limite senza un confine soggettivo. Da enunciare con precisione.
+- **① Concentrazione ↔ Democrazia — RISOLTO (§13.7).** *Entrambe* le vie, in sequenza: concentrazione in **fase prodotto** (finanzia la costruzione), distribuzione in **fase espansione** (strutture open-source, governance dell'uso distribuita). La concentrazione iniziale finanzia la redistribuzione. Il sistema resta **capitalistico a esito orientato** (§13.3): meritocratico nel gioco, sociale nell'esito.
+- **② Tempo libero ↔ potere d'acquisto — RISOLTO (§13.6).** L'anello è il **reddito di cittadinanza mondiale**: i non-lavoratori sono il **motore della domanda** che alimenta il sistema. Resta da formalizzare la *baseline* matematica (tasso di dividendo all'equilibrio).
+- **④ "Forzatamente" ↔ libertà — RISOLTO (§13.3).** Falso problema, una volta chiarito l'esito orientato: ciò che è "forzato" è solo **l'inclinazione del campo** (le regole che fanno convergere gli esiti verso il progresso), *non* il movente né la partecipazione individuale, che restano pienamente liberi. Non si reindirizza il fine delle persone — si disegna il terreno di gioco.
+- **③ Infinito epistemico ↔ limite fisico — RESIDUO.** La realtà è scomponibile "all'infinito" *epistemicamente* (dipende dalla conoscenza), ma con un *limite ontologico* dato dai parametri fisici. La conoscenza si avvicina asintoticamente al limite senza un confine soggettivo. Da enunciare con precisione.
+- **⑤ Governance democratica — RESIDUO (nuovo).** I *due motori di selezione* (§13.4) introducono una "selezione democratica delle priorità" gestita dai cittadini: resta da definire *come* si vota, su cosa, e con quali garanzie anti-cattura. È il prossimo nodo da atomizzare.
 
 ---
 
@@ -491,7 +553,14 @@ Questo documento è un substrato vivo. Tre nodi restano **deliberatamente irriso
 - **Social network della vita** — il secondo volto del Web 4: ogni persona è il proprio profilo-nodo produttivo; stessa architettura dei social, fine spostato dalla dopamina alla collaborazione.
 - **Economia a dividendo** — modello post-lavoro in cui offerta gestita da sistemi + meno ore di lavoro + dividendo universale generano la domanda; baseline = tasso di dividendo all'equilibrio.
 - **Governance a nodi** — il mondo come progetto open-source con nodi, governato democraticamente.
+- **Capitalismo a esito orientato** — il sistema capitalista (meritocrazia + libertà di costruire) in cui *il movente individuale resta libero*: non si reindirizza il fine delle persone, si disegna il campo (infra comune + doppia selezione) perché l'*esito aggregato* converga al progresso. Capitalista nel motore, sociale nell'esito. Non comunismo.
+- **Doppio motore di selezione** — i due meccanismi che decidono chi vince: *selezione agentica* (merito d'uso, gli agenti usano in automatico ciò che funziona) + *selezione democratica* (i cittadini fissano quali bisogni premiare di più). Sostituisce la speculazione di mercato regolata dagli umani.
+- **Stack paralleli** — su una stessa nicchia, più *branch* concorrenti di sistemi costruiti sull'infra pubblica/trasparente, a qualsiasi livello del substrato; impediscono monopolio e lock-in.
+- **Composizione agentica** — l'agente personale, di fronte a un bisogno, esplora gli stack paralleli e compone la combinazione ottimale di *singole funzioni* tra branch diversi; rende il merito (e la redistribuzione) granulare per funzione.
+- **Reddito di cittadinanza mondiale** — reddito universale ai non-lavoratori inteso come *funzione economica* (motore della domanda che alimenta il sistema), non come assistenzialismo.
+- **Fase prodotto / fase espansione** — la sequenza di transizione: prima si costruisce la meta-struttura con valore concentrato (finanzia), poi si apre a commons open-source con valore redistribuito. La concentrazione paga la distribuzione.
+- **Selezione naturale del Web 4** — il meccanismo per cui ogni azienda è spinta a entrare nel sistema: chi non diventa nodo interrogabile dagli agenti diventa invisibile.
 
 ---
 
-*Documento di lavoro. v0.3 — destinato a iterazione. Aggiornato 2026-05-31: aggiunta Parte II (Fondamenti, strati 0–3) e le tensioni aperte.*
+*Documento di lavoro. v0.4 — destinato a iterazione. Aggiornato 2026-05-31: corretto §13 (capitalismo a **esito orientato** — il movente individuale resta libero), aggiunti i **due motori di selezione** (agentico + democratico) e gli **stack paralleli / composizione agentica**; cross-reference in §6.2 e §10.3; aggiornate le tensioni (§14). Versioni precedenti: v0.2 (Parte I), v0.3 (Parte II / Fondamenti).*
