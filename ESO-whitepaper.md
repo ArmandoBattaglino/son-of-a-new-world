@@ -1,7 +1,7 @@
 # Operative Ecosystem (ESO)
 ### Il modello operativo dell'impresa individuale nell'era degli agenti
 
-**Whitepaper visionario · v0.4 (bozza)**
+**Whitepaper visionario · v0.5 (bozza)**
 Autore: Armando Battaglino
 Data: 2026-05-31
 
@@ -21,7 +21,7 @@ Chiamiamo questo modello **Operative Ecosystem (ESO)**: un "sistema operativo" p
 
 Il documento delinea: (1) perché il modello aziendale tradizionale sta diventando obsoleto; (2) cosa è precisamente un Operative Ecosystem e come è strutturato; (3) il **motore cognitivo** che lo rende possibile — l'*atomizzazione*; (4) il suo motore economico — il **substrato auto-alimentante**; (5) lo scenario tecnologico in cui esplode, il **Web 4 / Internet Agentico**; e (6) una prova reale già in costruzione, **Working Suite**. La conclusione è una tesi netta sul perché qui si concentra il valore — potenzialmente trilionario — della prossima generazione di founder.
 
-La **Parte II** scende sotto e sale sopra l'ESO: ne espone i **fondamenti** (la legge scala-invariante della realtà, lo strato cognitivo fino al *gemello cognitivo*, il Web 4 come *social network della vita* e l'*economia post-lavoro a dividendo*) e registra le **tensioni ancora aperte** del pensiero.
+La **Parte II** scende sotto e sale sopra l'ESO: ne espone i **fondamenti** (la legge scala-invariante della realtà, lo strato cognitivo fino al *gemello cognitivo*, il Web 4 come *social network della vita*, l'*economia post-lavoro a dividendo* e il *layer di regolazione on-chain* — il Web 3) e registra le **tensioni ancora aperte** del pensiero.
 
 ---
 
@@ -246,6 +246,14 @@ Si chiude il cerchio con l'ESO:
 > Le aziende-nodo auto-alimentanti dell'Operative Ecosystem **sono esattamente i nodi che gli agenti interrogano nel Web 4.** Le costruisci con l'AI, si autoalimentano sull'interesse delle persone, e diventano i punti di match che gli agenti scelgono — e sopra ci vendi i tool.
 
 Il founder-solo che controlla l'ecosistema di nodi più interrogati nel Web 4 occupa la stessa posizione che nel Web 2 occupavano le piattaforme: ma lo fa **da solo, con l'AI, e su un substrato che si autoalimenta.** Qui si concentra il valore potenzialmente trilionario della prossima generazione di imprenditori.
+
+### 6.4 Web 3 — il layer di regolazione (non le criptovalute)
+
+*(Nota di lavoro — concetto in sviluppo.)* Se il Web 4 è il layer dell'**azione** (gli agenti che orchestrano), il **Web 3 è il layer della verità e della regolazione**. Attenzione: Web 3 non significa "criptovalute" — quelle sono solo *un'applicazione*. La sostanza è la **blockchain** come tecnologia che prende il singolo bit di informazione e lo rende **unico, tracciabile, trasparente e contrattualizzato** (smart contract).
+
+L'inversione chiave: questa struttura, pensata per l'uso umano diretto, è scomoda — *non è fatta per gli umani*. Ma per **regolare un sistema gestito da agenti** è perfetta. Il giusto "utente" della blockchain non è la persona: **è il sistema stesso.**
+
+> **Web 3 = verità e regolazione (deterministico, on-chain) · Web 4 = azione e orchestrazione (agentico).** Il sistema vive sull'incastro dei due. (Sviluppo del meccanismo in §13.8.)
 
 ---
 
@@ -514,6 +522,18 @@ La transizione dal mondo di oggi a questo sistema ha un ordine obbligato:
 
 E il sistema si diffonde non per conquista ma per **selezione naturale del Web 4**: ogni azienda esistente è spinta a entrare perché chi non diventa nodo interrogabile dagli agenti (§6.2, *Agentic Match Economy*) **diventa invisibile**. Non si piega il mercato con la forza — lo si piega rendendolo l'unico modo per restare visibili.
 
+### 13.8 Il substrato di regolazione: la blockchain deterministica
+
+*(Nota di lavoro — concetto in sviluppo.)* Il layer che rende *eseguibile* tutto questo è il **Web 3 (§6.4)**: la blockchain come substrato di regolazione deterministica. Se la realtà è parametrizzabile (§10), allora gli **obiettivi del sistema-mondo** possono essere codificati in **formule deterministiche on-chain** — trasparenti e non manipolabili. Cosa abilita, in pratica:
+
+- **Anti-speculazione.** Le formule deterministiche annullano la speculazione di mercato — *"la falla maggiore del capitalismo"* — sostituendola con regole verificabili (completa §13.4).
+- **Merito granulare verificabile.** Ogni funzione usata è un bit tracciato e contrattualizzato → la retribuzione per singola funzione (§13.5) diventa automatica e auditabile.
+- **Governance non-catturabile.** Priorità democratiche (§13.4) e dividendo proporzionato (§13.6) sono eseguiti da codice trasparente, non da arbitrio politico → garanzia anti-cattura per il nodo ⑤.
+
+**Il "perché ora".** La blockchain (studiata dal 2018) dava la regolazione deterministica ma le mancava l'attore giusto — l'umano non lo era. L'**AI agentica** è quell'attore. Da soli nessuno dei due bastava; insieme rendono il sistema realizzabile.
+
+> *Da atomizzare (sviluppo futuro): il confine di cosa va on-chain; la distinzione tra **governance dei parametri** (democratica) ed **esecuzione** (deterministica); il problema dell'**oracolo** — come la realtà entra in catena in modo non manipolabile (forse via agenti).*
+
 ---
 
 ## 14. Le tensioni: risolte e residue (stato del pensiero al 2026-05-31)
@@ -524,7 +544,7 @@ Questo documento è un substrato vivo. Aggiornamento di stato: due dei tre nodi 
 - **② Tempo libero ↔ potere d'acquisto — RISOLTO (§13.6).** L'anello è il **reddito di cittadinanza mondiale**: i non-lavoratori sono il **motore della domanda** che alimenta il sistema. Resta da formalizzare la *baseline* matematica (tasso di dividendo all'equilibrio).
 - **④ "Forzatamente" ↔ libertà — RISOLTO (§13.3).** Falso problema, una volta chiarito l'esito orientato: ciò che è "forzato" è solo **l'inclinazione del campo** (le regole che fanno convergere gli esiti verso il progresso), *non* il movente né la partecipazione individuale, che restano pienamente liberi. Non si reindirizza il fine delle persone — si disegna il terreno di gioco.
 - **③ Infinito epistemico ↔ limite fisico — RESIDUO.** La realtà è scomponibile "all'infinito" *epistemicamente* (dipende dalla conoscenza), ma con un *limite ontologico* dato dai parametri fisici. La conoscenza si avvicina asintoticamente al limite senza un confine soggettivo. Da enunciare con precisione.
-- **⑤ Governance democratica — RESIDUO (nuovo).** I *due motori di selezione* (§13.4) introducono una "selezione democratica delle priorità" gestita dai cittadini: resta da definire *come* si vota, su cosa, e con quali garanzie anti-cattura. È il prossimo nodo da atomizzare.
+- **⑤ Governance democratica — IN VIA DI RISOLUZIONE (§13.8).** Il meccanismo è la **blockchain deterministica** (Web 3): priorità e dividendo eseguiti da formule on-chain trasparenti → garanzia anti-cattura *strutturale*, non politica. Restano da atomizzare: confine di cosa va on-chain, distinzione governance-dei-parametri vs esecuzione, problema dell'oracolo.
 
 ---
 
@@ -560,7 +580,9 @@ Questo documento è un substrato vivo. Aggiornamento di stato: due dei tre nodi 
 - **Reddito di cittadinanza mondiale** — reddito universale ai non-lavoratori inteso come *funzione economica* (motore della domanda che alimenta il sistema), non come assistenzialismo.
 - **Fase prodotto / fase espansione** — la sequenza di transizione: prima si costruisce la meta-struttura con valore concentrato (finanzia), poi si apre a commons open-source con valore redistribuito. La concentrazione paga la distribuzione.
 - **Selezione naturale del Web 4** — il meccanismo per cui ogni azienda è spinta a entrare nel sistema: chi non diventa nodo interrogabile dagli agenti diventa invisibile.
+- **Web 3 — layer di regolazione** *(in sviluppo)* — la blockchain (non le criptovalute) come substrato che rende ogni bit unico, tracciabile, trasparente e contrattualizzato; nel sistema è il layer di *verità e regolazione deterministica*, complementare al Web 4 (azione/orchestrazione). Non è fatta per l'uso umano: il suo "utente" giusto è il sistema agentico.
+- **Formule deterministiche (on-chain)** *(in sviluppo)* — la codifica matematica degli obiettivi del sistema-mondo, delle priorità e del dividendo, eseguita on-chain: annulla la speculazione ("la falla del capitalismo") e garantisce trasparenza e anti-cattura.
 
 ---
 
-*Documento di lavoro. v0.4 — destinato a iterazione. Aggiornato 2026-05-31: corretto §13 (capitalismo a **esito orientato** — il movente individuale resta libero), aggiunti i **due motori di selezione** (agentico + democratico) e gli **stack paralleli / composizione agentica**; cross-reference in §6.2 e §10.3; aggiornate le tensioni (§14). Versioni precedenti: v0.2 (Parte I), v0.3 (Parte II / Fondamenti).*
+*Documento di lavoro. v0.5 — destinato a iterazione. Aggiornato 2026-05-31: aggiunto (light, in sviluppo) il **layer di regolazione Web 3 / blockchain deterministica** — §6.4 (Web 3 ≠ criptovalute: verità e regolazione per il sistema agentico) e §13.8 (formule deterministiche on-chain: anti-speculazione, merito granulare verificabile, governance anti-cattura); nodo ⑤ ora in via di risoluzione. Versioni precedenti: v0.2 (Parte I), v0.3 (Parte II / Fondamenti), v0.4 (esito orientato + due motori + stack paralleli).*
