@@ -30,7 +30,8 @@ Lo conservo per due motivi:
 
 | File | Cos'è |
 |---|---|
-| [`ESO-whitepaper.md`](ESO-whitepaper.md) | **Operative Ecosystem (ESO)** — il modello operativo dell'impresa individuale nell'era degli agenti. Parte I = lo strato applicativo (business); Parte II = i fondamenti (ontologia, cognizione, società, economia) e le tensioni ancora aperte. |
+| [`ESO-whitepaper.md`](ESO-whitepaper.md) | 🇮🇹 **Operative Ecosystem (ESO)** — il modello operativo dell'impresa individuale nell'era degli agenti. Parte I = lo strato applicativo (business); Parte II = i fondamenti (ontologia, cognizione, società, economia) e le tensioni ancora aperte. |
+| [`ESO-whitepaper-EN.md`](ESO-whitepaper-EN.md) | 🇬🇧 English version of the whitepaper. Its commit history mirrors the Italian one (v0.2 → v0.7), so the evolution of the thought is navigable in both languages. |
 
 ---
 
