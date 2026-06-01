@@ -479,7 +479,7 @@ The system's **baseline** — the dividend rate that keeps supply and demand in 
 
 ### 13.3 It is not communism: outcome-oriented capitalism
 
-The system lends itself to a misunderstanding: *"redistribution, commons, universal income — it's communism."* **It is not.** It remains **capitalist in mechanism** — indeed, it deliberately adopts *the most efficient system ever to exist* — and preserves its pillars: **meritocracy** and the **freedom to build**. Whoever wants to create, creates; whoever builds more and better, wins more.
+The system lends itself to a misunderstanding: *"redistribution, commons, universal income — it's communism."* **It is not.** It remains **capitalist in mechanism** — indeed, it deliberately adopts *the most efficient system that has ever existed* — and preserves its pillars: **meritocracy** and the **freedom to build**. Whoever wants to create, creates; whoever builds more and better, wins more.
 
 And above all **it does not touch the individual motive**: the *why* a person operates remains free — and to the system it is irrelevant. No one is asked to work "for the progress of society." The only constraint is structural: **if you want to compete, build on the common infrastructure.**
 
@@ -614,7 +614,7 @@ This document is deliberately **unfalsifiable** in the scientific sense: it is a
 
 ### 16.6 Originality: synthesis, not discovery
 
-It must be said without mincing words: **none of the bricks of this document is a discovery.** The augmented individual enterprise, the agentic internet, the post-labor economy with universal income, reality as a parametrizable system, the blockchain as a trust layer for the machines, the *mechanism design* that "tilts the field" — each of these ideas already exists, and has been written elsewhere with more rigor. Anyone who knows the debate can dismantle the single pieces one by one.
+It must be said without mincing words: **none of the bricks of this document is a discovery.** The augmented individual enterprise, the agentic internet, the post-labor economy with universal income, reality as a parametrizable system, the blockchain as a trust layer for the machines, the *mechanism design* that "tilts the field" — each of these ideas already exists, and has been written elsewhere with more rigor. Anyone who knows the debate can dismantle the individual pieces one by one.
 
 This paper's claim is therefore not the *originality of the parts*, but the **coherence of the synthesis**: the interlocking of those bricks into a single scale-invariant system (§10), anchored to a real operative observation and carried from the scale of productivity all the way to that of society. *The value is not in the notes, it is in the song.* Whoever seeks a discovery will be disappointed; whoever seeks a **unified model for reading** will find something that, put together like this, is not out there.
 
