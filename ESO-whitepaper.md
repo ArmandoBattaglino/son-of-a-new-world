@@ -1,7 +1,7 @@
 # Operative Ecosystem (ESO)
 ### Il modello operativo dell'impresa individuale nell'era degli agenti
 
-**Whitepaper visionario · v0.6 (bozza)**
+**Whitepaper visionario · v0.7 (bozza)**
 Autore: Armando Battaglino
 Data: 2026-05-31
 
@@ -612,6 +612,20 @@ Punto decisivo: anche se la Parte II fosse del tutto sbagliata, la tesi **non cr
 
 Questo documento è volutamente **non falsificabile** in senso scientifico: è un manifesto in evoluzione, non una previsione (vedi *Nota di natura*). Il suo valore non è predire il futuro con precisione, ma offrire un **modello di lettura** del presente abbastanza potente da guidare l'azione — e abbastanza onesto da cambiare quando la realtà lo smentisce.
 
+### 16.6 Originalità: sintesi, non scoperta
+
+Va detto senza giri di parole: **nessuno dei mattoni di questo documento è una scoperta.** L'impresa individuale aumentata, l'internet agentico, l'economia post-lavoro col reddito universale, la realtà come sistema parametrizzabile, la blockchain come layer di fiducia per le macchine, il *mechanism design* che "inclina il campo" — ognuna di queste idee esiste già, ed è stata scritta altrove con più rigore. Chiunque conosca il dibattito può smontare i singoli pezzi uno per uno.
+
+La rivendicazione di questo paper non è dunque l'*originalità delle parti*, ma la **coerenza della sintesi**: l'incastro di quei mattoni in un unico sistema scala-invariante (§10), ancorato a un'osservazione operativa reale e portato dalla scala della produttività fino a quella della società. *Il valore non è nelle note, è nella canzone.* Chi cerca una scoperta resterà deluso; chi cerca un **modello di lettura unificato** troverà qualcosa che, messo insieme così, in giro non c'è.
+
+### 16.7 Magnitudine: l'idea è il fattore a varianza più bassa
+
+Una tentazione da disinnescare: credere che la portata di questa tesi predica la portata di chi la realizza. Non è così. La magnitudine di un esito è un **prodotto** — `idea × esecuzione × distribuzione × capitale × timing × fortuna` — e **l'idea è il fattore con la varianza più bassa di tutti**, quasi una commodity (§16.2). La stessa tesi, in mani con più distribuzione e capitale, avrebbe magnitudine enormemente diversa: non perché l'idea cambi, ma perché cambiano i moltiplicatori. Ne segue una conseguenza operativa netta: **il vantaggio non si difende possedendo l'idea, ma eseguendo più veloce del gap di conoscenza** (§16.4). Tutto il resto è cornice.
+
+### 16.8 Il rischio del tono: la visione non è la prova
+
+Ultimo limite, il più scomodo — ed è sull'autore prima che sulla tesi. Un documento con un registro a tratti messianico porta con sé un rischio cognitivo preciso: **scambiare la potenza della visione per la prova di averla già realizzata.** Più la cornice è grandiosa, più è facile innamorarsene e smettere di guardare i dati. L'unico antidoto onesto è tenere separati i due piani: ciò che è *dimostrato* (Parte I — Working Suite che gira) e ciò che è *immaginato* (Parte II — gli scenari). Questo paragrafo esiste apposta per ricordarlo: **la visione è carburante, non specchio.**
+
 ---
 
 ## Appendice A — Glossario
@@ -653,7 +667,11 @@ Questo documento è volutamente **non falsificabile** in senso scientifico: è u
 - **Dati concentrati** — il principio per cui un modello generico, con contesto denso e strutturato su un dominio ristretto, raggiunge precisione quasi-specialistica: la leva è la concentrazione del contesto, non la coscienza del modello.
 - **Premortem** — l'esposizione deliberata delle confutazioni e dei limiti della tesi, per rafforzarne la credibilità invece di nasconderli.
 - **Due branch sul valore** — i due esiti opposti della stessa premessa "costruire è commodity": il valore si concentra sull'architetto-solo (A) oppure sulle big con élite oligarchica interna (B).
+- **Originalità di sintesi** — la rivendicazione del documento: non scoprire idee nuove (i mattoni esistono già altrove) ma incastrarle in un sistema scala-invariante coerente; il valore è la cucitura, non le parti.
+- **Magnitudine come prodotto** — principio per cui l'esito = idea × esecuzione × distribuzione × capitale × timing × fortuna; l'idea è il fattore a varianza più bassa, quindi il vantaggio si difende eseguendo, non possedendo l'idea.
 
 ---
 
-*Documento di lavoro. v0.6 — destinato a iterazione. Aggiornato 2026-06-01: aggiunta la **Nota di natura/lettura**; §1.1 (umani in serie vs nodi-ragionamento in parallelo); §4.3 (non serve un'AI "che pensa": dati concentrati); §7.4 (MVP live); §8.4 (esercito di nodi-ragionamento); nuova **§15 Strategia di consolidamento** (exploit di teoria dei giochi, le 5 leve) e nuova **§16 Premortem** (confutazioni e limiti, due branch sul valore, due velocità, gap di conoscenza). Versioni precedenti: v0.2 (Parte I), v0.3 (Parte II / Fondamenti), v0.4 (esito orientato + due motori + stack paralleli), v0.5 (Web 3 / regolazione).*
+*Documento di lavoro. v0.6 — destinato a iterazione. Aggiornato 2026-06-01: aggiunta la **Nota di natura/lettura**; §1.1 (umani in serie vs nodi-ragionamento in parallelo); §4.3 (non serve un'AI "che pensa": dati concentrati); §7.4 (MVP live); §8.4 (esercito di nodi-ragionamento); nuova **§15 Strategia di consolidamento** (exploit di teoria dei giochi, le 5 leve) e nuova **§16 Premortem** (confutazioni e limiti, due branch sul valore, due velocità, gap di conoscenza). Versioni precedenti: v0.2 (Parte I), v0.3 (Parte II / Fondamenti), v0.4 (esito orientato + due motori + stack paralleli), v0.5 (Web 3 / regolazione), v0.6 (strategia di consolidamento + premortem).*
+
+*Aggiornamento v0.7 (2026-06-01): §16 Premortem esteso con §16.6 (originalità = sintesi, non scoperta — i mattoni esistono già), §16.7 (magnitudine come prodotto: l'idea è il fattore a varianza più bassa), §16.8 (il rischio del tono: la visione non è la prova). Glossario +2 voci.*
