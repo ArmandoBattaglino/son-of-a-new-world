@@ -30,8 +30,9 @@ Lo conservo per due motivi:
 
 | File | Cos'è |
 |---|---|
-| [`ESO-whitepaper.md`](ESO-whitepaper.md) | 🇮🇹 **Operative Ecosystem (ESO)** — il modello operativo dell'impresa individuale nell'era degli agenti. Parte I = lo strato applicativo (business); Parte II = i fondamenti (ontologia, cognizione, società, economia) e le tensioni ancora aperte. |
-| [`ESO-whitepaper-EN.md`](ESO-whitepaper-EN.md) | 🇬🇧 English version of the whitepaper. Its commit history mirrors the Italian one (v0.2 → v0.7), so the evolution of the thought is navigable in both languages. |
+| [`ESO-whitepaper.md`](ESO-whitepaper.md) | 🇮🇹 **Operative Ecosystem (ESO)** · v2.0 — il modello operativo dell'impresa individuale nell'era degli agenti. Quattro movimenti: **Parte 0** i fondamenti (il loop della realtà, classe→istanza, il tempo, l'energia); **Parte I** l'ESO come modello d'impresa; **Parte II** la legge scala-invariante, l'orizzonte sociale ed economico e il ragionamento sui mercati; **Parte III** l'applicazione concreta (il micromercato). Più i nodi aperti e quattro appendici (glossario, estrapolazione cosmologica, il metodo, il diario delle decisioni). |
+| [`ESO-whitepaper-EN.md`](ESO-whitepaper-EN.md) | 🇬🇧 English version of the whitepaper, kept in sync with the Italian (v0.2 → v2.0), so the evolution of the thought is navigable in both languages. |
+| [`ESO-claude-context.md`](ESO-claude-context.md) | 🤖 Compact, theory-only English distillation, optimized to be loaded as context for an LLM. Business-specific applications are deliberately omitted (public edition). |
 
 ---
 
